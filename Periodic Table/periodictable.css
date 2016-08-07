@@ -1,0 +1,75 @@
+.blsquare{
+	background:lightblue;
+	width:50px;
+	height:50px;
+	border: 1px solid black;
+	margin:1px;
+	display:inline-block;
+}
+
+.redsquare{
+	background:red;
+	width:50px;
+	height:50px;
+	border: 1px solid black;
+	display:inline-block;
+	margin:1px;
+}
+
+.yelsquare{
+	background:yellow;
+	width:50px;
+	height:50px;
+	border: 1px solid black;
+	display:inline-block;
+	margin:1px;
+}
+
+.gresquare{
+	background:green;
+	width:50px;
+	height:50px;
+	border: 1px solid black;
+	display:inline-block;
+	margin:1px;
+}
+
+.elename{
+	font-size: 15px;
+	color:blue;
+	font-weight:bold;
+	text-align:center;
+	margin:2px 0px;
+}
+.numoweight{
+	margin:0px;
+	font-size:10px;
+	text-align:center;
+}
+
+.row{
+	width:1000px;
+}
+
+#row1{
+	margin-left: 874px;
+}
+
+.toptworow{
+	margin-left: 550px;
+}
+
+.midrow{
+	margin-left: 10px;
+}
+
+#row7{
+	margin-bottom:10px;
+}
+
+.lowrow{
+	margin-left: 118px;
+}
+
+
+

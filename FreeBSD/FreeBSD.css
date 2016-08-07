@@ -1,0 +1,146 @@
+#header{
+	max-width: 970px;
+	background:#780000 ;
+	color: white;
+
+
+}
+
+#lefthead{
+	width:600px;
+	height:80px;
+	display:inline-block;
+	vertical-align: top;
+
+}
+
+#lefthead img{
+	margin:8.5px 0px 0px 50px;
+}
+
+#lefthead p{
+	display:inline;
+	font-size:20px;
+	margin: 0px 0px 29px 0px; /*Can't figure out how to push the text into the center of the div?? */
+}
+
+#righthead{
+	width:300px;
+	height:80px;
+	display:inline-block;
+	
+}
+
+#righthead p{
+ 	margin:8px 0px 8px 0px;
+
+}
+
+#righthead a{
+	color:yellow;
+}
+
+#text{
+	margin-left: 53px;
+}
+
+#search{
+	border: 1px solid white;
+	color:white;
+	background: #780000 ;
+
+}
+
+
+#navbar{
+	width:970px;
+}
+
+#navbar ul{
+	background: linear-gradient(white,lightblue);
+	padding:10px;
+	margin-top: 0px;
+	margin-bottom:10px; 
+}
+
+#navbar li{
+	display:inline;
+	margin-left: 10px;
+	font-weight: bold;
+	border-left: 1px solid grey;
+	padding-left: 10px; /* Can't figure out how to remove the line from the first one.*/
+}
+
+#navfirst {
+	border-left:none;
+
+}
+#navbar a{
+	text-decoration: none;
+	color:#C8C8C8 ;
+}
+
+
+
+
+#sidebar{
+	margin: 20px 10px 20px 20px;
+	background-color:lightblue;
+	width:175px;
+	height: 275px;
+	border: 1px solid blue;
+	display:inline-block;
+	vertical-align: top;
+	
+}
+#sidebar ul{
+	padding-left: 20px;
+	margin-top: 8px;
+}
+
+#sidebar li {
+	list-style:none;
+	margin:5px;
+
+}
+
+#sidebar li:before{
+	content:"\00BB ";
+}
+
+#sidebar a{
+	color:#800000;
+}
+
+#main_content{
+	display:inline-block;
+	width:750px;
+}
+
+#main_content h4{
+	color:#800000;
+	margin-bottom: 15px;
+}
+
+#main_content h3{
+	color:#800000;
+}
+
+#main_content a{
+	color:#800000;
+
+}
+
+#main_content hr{
+	border-width:2px;
+}
+
+#main_content span{
+	font-weight: bold;
+}
+
+.faqs{
+	color:#800000;
+	font-weight:bold; 
+}
+

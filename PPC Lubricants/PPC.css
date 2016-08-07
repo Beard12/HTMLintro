@@ -1,0 +1,199 @@
+#header{
+	max-width: 970px;
+	background:white ;
+	
+}
+
+#lefthead{
+	width:600px;
+	height:80px;
+	display:inline-block;
+	vertical-align: top;
+}
+
+#lefthead img{
+	margin:7px 0px 0px 15px;
+}
+
+#righthead{
+	width:300px;
+	height:80px;
+	display:inline-block;	
+}
+
+#righthead h3{
+	margin:35px 0px 0px 10px;
+}
+
+#navbar{
+	width:970px;
+	border-top: 1px solid black;
+}
+
+#navbar ul{
+	background: linear-gradient(white,lightgray);
+	padding:10px;
+	margin-top: 0px;
+	margin-bottom:30px; 
+}
+
+#navbar li{
+	display:inline;
+	margin-left: 5px;
+	font-weight: bold;
+	border-left: 1px solid grey;
+	padding-left: 10px;
+	font-size: 15px; 
+}
+
+#navbar a{
+	text-decoration: none;
+	color:#808080;
+}
+
+#back {
+	background: black;/* look into possible gradient */
+	width:970px;
+	height:600px;
+}
+
+#main_content{
+	width:970px;
+	display:inline-block;
+}
+
+#main_pic{
+	border:5px solid white;
+	margin: 10px 0px 0px 20px;
+	display:inline-block;
+	
+}
+
+#right_main_content{
+	display:inline-block;
+	vertical-align: top;
+	background:grey;
+	color: white;
+	width:500px;
+	height:265px;
+	margin:10px 0px 0px 20px; /*possible gradient*/
+}
+
+#heritage_right{
+	padding:0px 10px 0px 10px;
+	font-weight:bold;
+	margin-top: 15px;
+}
+
+#right_main_content p{
+	padding:0px 10px 0px 10px;
+	font-size: 13px;
+}
+
+#right_main_content span{
+	font-weight: bold;
+}
+
+.bla_yel_head{
+	background:linear-gradient(yellow, orange);
+	margin:0px;
+	padding:5px;
+	color:black;
+}
+
+#s_logo{
+	margin: 5px 10px 5px 30px;
+	width:78.75px;
+	height:15px;
+	border-radius:2px;
+}
+
+#mid_para{
+	color:yellow;
+	display:inline-block;
+	font-size: 10px;
+	margin:6px 5px 5px 5px;
+	vertical-align: top;
+}
+.bottom_section1{
+	display:inline-block;
+	width: 222px;
+	vertical-align: top;
+	background:white;
+	height:280px;
+	margin-left:20px;
+
+}
+.bottom_section1 p{
+	padding:5px;
+	font-size: 13px;
+}
+
+.bottom_section{
+	display:inline-block;
+	width: 222px;
+	vertical-align: top;
+	background:white;
+	height:280px;
+	margin-left: 10px;
+
+}
+.bottom_section p{
+	padding:5px;
+	font-size: 13px;
+}
+
+.bla_yel_headings{
+	background:linear-gradient(yellow, orange);
+	margin:0px;
+	padding:5px 5px 5px 20px;
+	
+
+}
+
+/*button fun...*/
+
+.buttons > a {
+  position: relative;
+  display: block;
+  font-size: 13px;
+  text-decoration: none;
+}
+
+.buttons > .next {
+  color: black;
+}
+.buttons > .next > .arrow-inner {
+  display: block;
+  position: absolute;
+  top: 1px;
+  right: 4px;
+  z-index: 2000;
+  width: 0;
+  height: 0;
+  border: 14px solid transparent;
+  border-left-color: yellow;
+}
+.buttons > .next > .arrow {
+  display: block;
+  float: right;
+  width: 0;
+  height: 0;
+  border: 15px solid transparent;
+  border-left-color: black;
+}
+.buttons > .next > .button {
+  display: block;
+  float: right;
+  background-color: yellow;
+  line-height: 20px;
+  border: 2px solid black;
+  border-right: 0;
+  border-top-left-radius: 5px;
+  border-bottom-left-radius: 5px;
+  padding: 3px 3px 3px 9px; 
+  text-align: center;
+ 
+  
+}
+

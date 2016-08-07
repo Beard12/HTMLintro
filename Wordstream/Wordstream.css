@@ -1,0 +1,258 @@
+
+#header{
+	width: 1050px;
+	background:white ;
+
+}
+
+#lefthead{
+	width:500px;
+	display:inline-block;
+	margin-top:30px;
+}
+#lefthead h1{
+	display:inline-block;
+	color:grey;
+	margin-top:15px;
+	vertical-align:top;
+}
+
+#stream{
+	color:blue;
+}
+
+#righthead{
+	width: 500px;
+	display:inline-block;
+	vertical-align: top;
+}
+#righthead ul{
+	background: linear-gradient(white,lightgray);
+	padding:10px;
+	width:400px;
+	border-radius:5px;
+	margin: 0px;
+	display:inline-block;
+}
+
+#righthead li {
+	display:inline-block;
+	margin-left: 5px;
+	font-weight: bold;
+	border-left: 1px solid grey;
+	padding-left: 10px;
+	font-size: 13px;
+	
+}
+
+#righthead a{
+	text-decoration: none;
+	color: grey;
+}
+
+#button {
+	background:linear-gradient(white, blue);
+	color:white;
+	border-radius:2px;
+	padding:5px 15px;
+	border:0px;
+	margin-left:10px;
+}
+
+#main_content {
+	width:1050px;
+	display:inline-block;
+}
+
+h2 {
+	color: white;
+	font-weight: bold;
+	background:blue;
+	margin: 0px;
+	padding:10px 10px;
+	width:1030px;
+
+}
+
+#ad_content {
+	width:350px;
+	display:inline-block;
+	vertical-align:top;
+}
+
+#ad_blue {
+	color:blue;
+	padding:5px;
+	font-size: 25px;
+	margin-bottom: 0px;
+}
+
+#ad_grey {
+	color:darkgrey;
+	padding: 5px;
+	font-size: 17px;
+}
+#ad_photo input{
+	background: linear-gradient(lightblue,darkblue);
+	color:white;
+	padding: 5px 50px;
+	margin: 0px 20px;
+	border:0px;
+	border-radius:5px;
+	font-size: 15px;
+
+}
+
+#bluestream{
+	color:blue;
+	font-size: 20px;
+	margin-top:50px;
+	margin-bottom:5px;
+}
+
+#red {
+	color:red;
+	font-weight:bold;
+	margin-bottom:0px;
+}
+
+#start{
+	margin-top:2px;
+}
+
+#credit{
+	margin:5px 75px 15px 75px;
+}
+
+#bluestre{
+	color:blue;
+
+}
+
+#demo{
+	background:blue;
+	color:white;
+	font-weight:bold;
+	padding:5px 70px;
+	border-radius:5px;
+	border:0px;
+	margin:5px 30px;
+	font-size: 17px;
+}
+
+#trial{
+	background:linear-gradient(white,orange);
+	color:white;
+	font-weight:bold;
+	padding:5px 102px 5px 90px;
+	border-radius:5px;
+	border:0px;
+	margin:5px 30px;
+	font-size: 17px;
+}
+
+#ad_photo{
+	background:url(left_content_ad1.png);
+	height:350px;
+	width:290px;
+	padding:5px;
+	margin-left:25px;
+}
+
+#right_content {
+	width: 670px;
+	display:inline-block;
+	margin-top: 10px;
+}
+
+#right_content ul{
+	list-style-type: square ;
+	color:blue;
+}
+#right_content li p{
+	color:black;
+}
+
+
+#home{
+	display: inline-block;
+	vertical-align: top;
+}
+
+#home p{
+	margin: 3px 0px;
+	display:inline-block;
+	vertical-align:top;
+	color:blue;
+}
+
+#phone{
+	display: inline-block;
+	vertical-align: top;
+	width:200px;
+	margin-left:360px;
+}
+
+#phone img{
+	display:inline-block;
+}
+
+#phone p{
+	display:inline-block;
+	vertical-align: top;
+	margin:0px;
+	color:lightgrey;
+	font-size: 12px;
+
+}
+
+#phone_number{
+	color:turquoise;
+	font-weight:bold;
+	font-size: 22px;
+}
+
+.bold{
+	font-weight: bold;
+}
+
+#bold_right{
+	color:blue;
+	font-weight:bold;
+	font-size: 20px;
+}
+
+#ad_break{
+	
+	border:5px solid lightblue;
+	width: 600px;
+	height:150px;
+	margin: 10px 25px;
+}
+
+#ad_break img{
+	display:inline-block;
+}
+
+#ad_break p{
+	display:inline-block;
+	vertical-align: top;
+	width:500px;
+}
+
+#ad_break input{
+	background: lightgreen;
+	color:white;
+	border:0px;
+	margin-left:65px;
+	padding:5px 20px;
+	font-size:15px;
+	display:block;
+	border-radius:5px;
+}
+
+.bold_right {
+	color:blue;
+	font-weight:bold;
+	font-size:17px;
+}
